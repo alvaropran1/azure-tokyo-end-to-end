@@ -24,6 +24,8 @@ Modern data pipeline leveraging Azure services for end-to-end data processing an
   - Looker Studio
   - Tableau
 
+For this project, we will be using Looker
+
 ## Key Benefits
 - Automated pipeline
 - Scalable architecture
